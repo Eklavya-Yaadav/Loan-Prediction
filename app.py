@@ -10,7 +10,7 @@ import pandas as pd
 import streamlit as st
 #from sklearn.preprocessing import StandardScaler
 
-model = pickle.load(open('E:\Model Apps\Loan Application Prediction\Eklavya_loan','rb'))
+model = pickle.load(open('Eklavya_loan','rb'))
 
 
 
